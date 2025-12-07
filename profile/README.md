@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/granade-logo0.png" alt="Granade" width="200"/>
+  <img src="../assets/granade-logo0.png" alt="Granade" width="200"/>
 </div>
 
 <h1 align="center">Granade</h1>
